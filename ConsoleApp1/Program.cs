@@ -37,6 +37,7 @@ namespace App1
             {
                 Console.WriteLine(ex.Message);
             }
+            Console.WriteLine("HelloWorld");
 
         }
     }
